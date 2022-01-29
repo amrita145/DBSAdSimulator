@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DBSAdSimulator/static/css/main.86d78e8a.css",
+    "main.js": "/DBSAdSimulator/static/js/main.486e70c3.js",
+    "static/media/ANTIM The Final Truth.mp4": "/DBSAdSimulator/static/media/ANTIM The Final Truth.b729a86304c62fecefd1.mp4",
+    "static/media/pocket-ad-format.png": "/DBSAdSimulator/static/media/pocket-ad-format.3af2cc7354ebd72e731b.png",
+    "static/media/Product-list.png": "/DBSAdSimulator/static/media/Product-list.34c1bec897ede022d7f4.png",
+    "static/media/Coupon-Code.png": "/DBSAdSimulator/static/media/Coupon-Code.a3e89aa45750a4460ba0.png",
+    "index.html": "/DBSAdSimulator/index.html",
+    "main.86d78e8a.css.map": "/DBSAdSimulator/static/css/main.86d78e8a.css.map",
+    "main.486e70c3.js.map": "/DBSAdSimulator/static/js/main.486e70c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d78e8a.css",
+    "static/js/main.486e70c3.js"
+  ]
+}
